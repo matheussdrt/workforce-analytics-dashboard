@@ -26,8 +26,8 @@ Fornecer uma visão clara e interativa sobre a força de trabalho da empresa, au
 - Análise por setor e desempenho
 
 ## 📁 Estrutura
-- `dashboard.pbix` → Arquivo principal do Power BI
-- `dados/` → Base de dados utilizada (se aplicável)
+- `Relátorio Funcionarios.pbix` → Arquivo principal do Power BI
+- `Excel/` → Base de dados utilizada (se aplicável)
 
 ## 🚀 Como usar
 1. Baixe o arquivo `.pbix`
